@@ -35,3 +35,11 @@
 /home/winston/RBE550_Project/ros_ws/build/gtest/googletest/CMakeFiles/test.dir
 /home/winston/RBE550_Project/ros_ws/build/gtest/googletest/CMakeFiles/gtest_main.dir
 /home/winston/RBE550_Project/ros_ws/build/gtest/googletest/CMakeFiles/gtest.dir
+/home/winston/RBE550_Project/ros_ws/build/rbe550_project/CMakeFiles/install/strip.dir
+/home/winston/RBE550_Project/ros_ws/build/rbe550_project/CMakeFiles/install/local.dir
+/home/winston/RBE550_Project/ros_ws/build/rbe550_project/CMakeFiles/install.dir
+/home/winston/RBE550_Project/ros_ws/build/rbe550_project/CMakeFiles/list_install_components.dir
+/home/winston/RBE550_Project/ros_ws/build/rbe550_project/CMakeFiles/rebuild_cache.dir
+/home/winston/RBE550_Project/ros_ws/build/rbe550_project/CMakeFiles/edit_cache.dir
+/home/winston/RBE550_Project/ros_ws/build/rbe550_project/CMakeFiles/test.dir
+/home/winston/RBE550_Project/ros_ws/build/rbe550_project/CMakeFiles/_catkin_empty_exported_target.dir

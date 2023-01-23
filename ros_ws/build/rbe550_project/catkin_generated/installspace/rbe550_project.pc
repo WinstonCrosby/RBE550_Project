@@ -1,0 +1,8 @@
+prefix=/home/winston/RBE550_Project/ros_ws/install
+
+Name: rbe550_project
+Description: Description of rbe550_project
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 
